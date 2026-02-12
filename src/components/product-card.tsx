@@ -67,7 +67,7 @@ export function ProductCard() {
 
           {/* Labels */}
           <div className="absolute bottom-5 left-6 right-6 z-10 flex items-center justify-between">
-            <span className="flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.15em] text-white/15 transition-colors duration-500 group-hover:text-white/40">
+            <span className="flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.15em] text-white/30 transition-colors duration-500 group-hover:text-white/50">
               <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
                 <polyline points="7 10 12 15 17 10" />
@@ -75,7 +75,7 @@ export function ProductCard() {
               </svg>
               Install App
             </span>
-            <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-white/20 transition-colors duration-500 group-hover:text-white/45">
+            <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-white/35 transition-colors duration-500 group-hover:text-white/50">
               Reft
             </span>
           </div>
