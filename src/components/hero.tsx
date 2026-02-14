@@ -31,11 +31,11 @@ export function Hero() {
       <div className="text-center">
         <h1 className="text-5xl font-medium tracking-[-0.05em] sm:text-6xl md:text-7xl lg:text-[5.5rem]">
           <RevealWord delay={0}>Less</RevealWord>{" "}
-          <RevealWord delay={0.08}>friction.</RevealWord>
+          <RevealWord delay={0.08}>Friction.</RevealWord>
         </h1>
         <p className="mt-2 text-5xl font-medium tracking-[-0.05em] text-white/30 sm:text-6xl md:text-7xl lg:text-[5.5rem]">
           <RevealWord delay={0.2}>Better</RevealWord>{" "}
-          <RevealWord delay={0.28}>tools.</RevealWord>
+          <RevealWord delay={0.28}>Tools.</RevealWord>
         </p>
 
         {/* Divider */}

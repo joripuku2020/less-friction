@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Less friction. Better tools.",
-  description: "Crafting minimal, powerful tools for creators.",
+  title: "Less Friction. Better Tools.",
+  description: "Crafting minimal, powerful Tools for creators.",
 };
 
 export default function RootLayout({
